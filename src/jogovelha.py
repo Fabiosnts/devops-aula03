@@ -5,7 +5,7 @@ def inicializar():
         for j in range(3):
             linha.append("X")
             tab.append(linha)
-return tab
+    return tab
 
 
 def main():
